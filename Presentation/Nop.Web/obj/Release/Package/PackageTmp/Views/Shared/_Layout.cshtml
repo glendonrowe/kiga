@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KIGA</title>
+  <!-- REVOLUTION NAVIGATION STYLES -->
+  <link href="~/Content/Custom/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="~/Content/Custom/css/bootstrap-slider.min.css" rel="stylesheet" />
+  <link href="~/Content/Custom/css/font-awesome.min.css" rel="stylesheet" />
+  <link href="~/Content/Custom/css/slick.css" rel="stylesheet" />
+  <link href="~/Content/Custom/css/style.css" rel="stylesheet" />
+</head>
+<body>
+  <div id="header-holder">
+    <div class="bg-animation"></div>
+    <nav id="nav" class="navbar navbar-default navbar-full">
+      <div class="container-fluid">
+        <div class="container container-nav">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="navbar-header">
+                <button aria-expanded="false" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="logo-holder" href="/">
+                  @*<div class="logo" style="width:62px;height:18px"></div>*@
+                  <div>KIGABYTES</div>
+                </a>
+              </div>
+              <div style="height: 1px;" role="main" aria-expanded="false" class="navbar-collapse collapse" id="bs">
+                <ul class="nav navbar-nav navbar-right">
+                  <li><a href="/">Home</a></li>
+                  <li class="dropdown mega">
+                    <a href="#pricing">Hosting <i class="fa fa-caret-down"></i></a>
+                    <ul class="dropdown-menu dropdown-mega">
+                      <li>
+                        <div class="container">
+                          <div class="row">
+                            <div class="col-md-4">
+                              <a class="mega-link" href="#">
+                                <div class="mega-box m-color1">
+                                  <div class="mega-icon">
+                                    <i class="htfy htfy-technology"></i>
+                                  </div>
+                                  <div class="mega-title">
+                                    Cloud Hosting
+                                  </div>
+                                  <div class="mega-details">
+                                    At vero eos et accusamus et iusto odio dignissimos
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div class="col-md-4">
+                              <a class="mega-link" href="#">
+                                <div class="mega-box m-color2">
+                                  <div class="mega-icon">
+                                    <i class="htfy htfy-cloud"></i>
+                                  </div>
+                                  <div class="mega-title">
+                                    Web Hosting
+                                  </div>
+                                  <div class="mega-details">
+                                    At vero eos et accusamus et iusto odio dignissimos
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                            <div class="col-md-4">
+                              <a class="mega-link" href="#">
+                                <div class="mega-box m-color3">
+                                  <div class="mega-icon">
+                                    <i class="htfy htfy-computer"></i>
+                                  </div>
+                                  <div class="mega-title">
+                                    VPS Servers
+                                  </div>
+                                  <div class="mega-details">
+                                    At vero eos et accusamus et iusto odio dignissimos
+                                  </div>
+                                </div>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </li>
+                  <li><a href="#">Company</a></li>
+                  <li><a href="#whmcs">WHMCS</a></li>
+                  <li><a href="#">Contact us</a></li>
+                  @Html.Partial("_LoginPartial")
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    @*<div class="flexBackground">
+        <canvas class="canvasBackground" height="600"></canvas>
+      </div>*@
+    <div id="top-content" class="container-fluid">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12">
+
+
+            <div class="big-title">
+              it’s not that hard to get<br>
+              a website <span>anymore.</span>
+            </div>
+            <div class="domain-search-holder">
+              <form id="domain-search">
+                <input id="domain-text" type="text" name="domain" placeholder="Write your domain name here.." />
+                <span class="inline-button">
+                  <input id="search-btn" type="submit" name="submit" value="Search">
+                </span>
+              </form>
+            </div>
+          </div>
+          <div class="col-md-12">
+            <div class="arrow-button-holder">
+              <a href="#pricing">
+                <div class="button-text">Web Hosting Plans</div>
+                <div class="arrow-icon">
+                  <i class="htfy htfy-arrow-down"></i>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+  <div class="container-fluid body-content">
+    @RenderBody()
+    <hr />
+  </div>
+
+  <div id="footer" class="container-fluid">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-6 col-sm-4 col-md-3">
+          <div class="address-holder">
+            <div class="phone"><i class="fa fa-phone"></i> 00 285 900 38502</div>
+            <div class="email"><i class="fa fa-envelope"></i> hello@kigabytes.com</div>
+            <div class="address">
+              <i class="fa fa-map-marker"></i>
+              <div>
+                City Avenue, Office 64,<br>
+                Floor 6,  Milbourne,<br>
+                Australia.
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-6 col-sm-2 col-md-2">
+          <div class="footer-menu-holder">
+            <h4>Company</h4>
+            <ul class="footer-menu">
+              <li><a href="about.html">About us</a></li>
+              <li><a href="blog.html">News</a></li>
+              <li><a href="faq.html">FAQ</a></li>
+              <li><a href="contact.html">Contact us</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-xs-6 col-sm-2 col-md-3">
+          <div class="footer-menu-holder">
+            <h4>Services</h4>
+            <ul class="footer-menu">
+              <li><a href="webhosting.html">Web Hosting</a></li>
+              <li><a href="cloudhosting.html">Cloud Hosting</a></li>
+              <li><a href="vpsservers.html">VPS Servers</a></li>
+              <li><a href="#">Domain Names</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-xs-6 col-sm-3 col-md-3">
+          <div class="footer-menu-holder">
+            <h4>Others</h4>
+            <ul class="footer-menu">
+              <li><a href="#">Transfer domains</a></li>
+              <li><a href="portal.html">Customer Portal</a></li>
+              <li><a href="#">Support Portal</a></li>
+              <li><a href="#">Video Tutorials</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-1 col-md-1">
+          <div class="social-menu-holder">
+            <ul class="social-menu">
+              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="~/Content/Custom/js/jquery.min.js"></script>
+  <script src="~/Content/Custom/js/bootstrap.min.js"></script>
+  <script src="~/Content/Custom/js/bootstrap-slider.min.js"></script>
+  <script src="~/Content/Custom/js/slick.min.js"></script>
+  <script src="~/Content/Custom/js/main.js"></script>
+  @RenderSection("scripts", required: false)
+</body>
+</html>

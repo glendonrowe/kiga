@@ -1,0 +1,11 @@
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\Nop.Plugin.Payments.CheckMoneyOrder.csproj.App.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Release\Nop.Plugin.Payments.CheckMoneyOrder.pdb

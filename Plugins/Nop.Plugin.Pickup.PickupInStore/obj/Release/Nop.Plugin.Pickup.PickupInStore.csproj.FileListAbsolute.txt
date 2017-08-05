@@ -1,0 +1,13 @@
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Description.txt
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\web.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\Nop.Plugin.Pickup.PickupInStore.csprojResolveAssemblyReference.cache
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\Nop.Plugin.Pickup.PickupInStore.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Release\Nop.Plugin.Pickup.PickupInStore.pdb

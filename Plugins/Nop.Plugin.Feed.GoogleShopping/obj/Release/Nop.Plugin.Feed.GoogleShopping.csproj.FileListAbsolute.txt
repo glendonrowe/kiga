@@ -1,0 +1,12 @@
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Content\styles.css
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Views\Configure.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Description.txt
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\web.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\logo.jpg
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.pdb
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Release\Nop.Plugin.Feed.GoogleShopping.csproj.App.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Release\Nop.Plugin.Feed.GoogleShopping.csprojResolveAssemblyReference.cache
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Release\Nop.Plugin.Feed.GoogleShopping.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Release\Nop.Plugin.Feed.GoogleShopping.pdb

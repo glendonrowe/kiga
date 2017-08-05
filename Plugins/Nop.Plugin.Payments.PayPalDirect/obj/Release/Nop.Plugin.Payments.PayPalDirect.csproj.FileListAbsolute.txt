@@ -1,0 +1,11 @@
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Release\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Release\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Release\Nop.Plugin.Payments.PayPalDirect.pdb

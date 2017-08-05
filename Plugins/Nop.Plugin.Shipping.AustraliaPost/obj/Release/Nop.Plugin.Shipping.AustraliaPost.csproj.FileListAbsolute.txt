@@ -1,0 +1,11 @@
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Views\Configure.cshtml
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Description.txt
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\web.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\logo.jpg
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Presentation\Nop.Web\Plugins\Shipping.AustraliaPost\Nop.Plugin.Shipping.AustraliaPost.pdb
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.csproj.App.config
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.csprojResolveAssemblyReference.cache
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.dll
+C:\Users\glendonr\Documents\Visual Studio 2017\Projects\KIGA\Plugins\Nop.Plugin.Shipping.AustraliaPost\obj\Release\Nop.Plugin.Shipping.AustraliaPost.pdb

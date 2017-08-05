@@ -1,0 +1,27 @@
+﻿/********** Setting the fonts section ***************/
+
+.flexBackground {
+  /*
+  height: 600px;
+  width: 100%;
+  background-color: #000;
+
+
+     background: url(https://images6.alphacoders.com/681/681840.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;	
+    */
+  position: absolute;
+  height: 600px !important;
+  width: 100%;
+  background-color: transparent;
+  z-index: -1;
+  left: 0;
+  top: 0;
+}
+
+.flexBackground canvas{
+	position : relative;
+}

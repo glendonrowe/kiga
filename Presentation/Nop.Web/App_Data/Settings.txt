@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=(LocalDb)\MSSQLLocalDB;Integrated Security=True
